@@ -1,0 +1,15 @@
+.AboutServiceimage {
+  background-image: url(../../ImagesFile/blog-item-background.png);
+  /* background-color: rgba(17, 46, 59, 0.849); */
+  background-attachment: fixed;
+  background-size: cover;
+  height: 345px;
+}
+
+.ServiceOffer {
+  background-image: url(../../ImagesFile/bmw-3-0-csl-gallery-02.jpg);
+  /* background-color: rgba(17, 46, 59, 0.849); */
+  background-attachment: fixed;
+  background-size: cover;
+  height: 345px;
+}
